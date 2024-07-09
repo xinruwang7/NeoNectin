@@ -1,1 +1,1 @@
-This directory includes the design ,filter and analys scripts
+This directory includes the design,filter, and analysis scripts
